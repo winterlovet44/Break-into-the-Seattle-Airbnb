@@ -27,7 +27,7 @@ For more information and full dataset of Seattle AirBnB can be found at [here](h
 
 All code was contains in [Airbnb-Seattle-EDA.ipynb](https://github.com/winterlovet44/Break-into-the-Seattle-Airbnb/blob/main/Airbnb-Seattle-EDA.ipynb). 
 
-Dataset for this code was contains at folder `data`.
+Dataset for this code was contained at folder `data`.
 
 ## Results<a name="results"></a>
 
